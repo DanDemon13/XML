@@ -1,1 +1,14 @@
-# XML
+<?xml?>
+<!--Bug Report-->
+	<Tupe>Bag</Tupe>
+	<Priority>Medium</Priority>
+	<Affects Verson/s>2.20</Affects Verson>
+	<Components/s>None</Components/s>
+	<Labels>None</Labels>
+	<Environmant>www.test.website.com</Environmant>
+  <Sprint>S22</Sprint22>
+  <Epic Link>Chat</Epic Link>
+  <Status>Open</Status>
+  <Resolution>Unresolved</Resolution>
+  <Fix Version/s>2.20</Fix Version>
+</Bug
