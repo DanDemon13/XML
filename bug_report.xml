@@ -1,14 +1,19 @@
-<?xml?>
+<?xml version="1.0"encoding="UTF-8"?>
+<Bug>
 <!--Bug Report-->
-	<Tupe>Bag</Tupe>
-	<Priority>Medium</Priority>
-	<Affects Verson/s>2.20</Affects Verson>
-	<Components/s>None</Components/s>
-	<Labels>None</Labels>
-	<Environmant>www.test.website.com</Environmant>
-  <Sprint>S22</Sprint22>
-  <Epic Link>Chat</Epic Link>
-  <Status>Open</Status>
-  <Resolution>Unresolved</Resolution>
-  <Fix Version/s>2.20</Fix Version>
-</Bug
+	<short description>
+		<the texts of errors>errors what</the texts of errors>
+		<On the form Zvorotny zvyazok on the page https://itawards.ua/ua>where</On the form Zvorotny zvyazok on the page https://itawards.ua/ua>
+		<In the UA version of the site have not been translated into Ukrainian>when?</In the UA version of the site have not been translated into Ukrainian>
+	</short description>
+	<Attachment>https://itawards.ua/ua</Attachment>
+	<Steps to Reproduce>
+		<1>Open the page https://itawards.ua/ua</1>
+		<2>Scroll to the form Zvorotny zvyazyk</2>
+		<3>Click on the button Send</3>
+		<4>Pay attention to the language of errors that appeared under the form fields</4>
+	</Steps to Reproduce>
+	<Result>"Errors are displayed in English</Result>
+	<Expected Result>Errors are displayed in Ukrainian</Expected Result>
+  <Seriousness>S1 (minor)</Seriousness>
+</Bug>
