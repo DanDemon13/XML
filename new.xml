@@ -1,8 +1,8 @@
 <?xml version="1.0"encoding="UTF-8"?>
 <person>
 <!--information about yourself-->
-        <name>"Daniil"</name>
-        <nurname>"Klikov"</nurname>
+        <name>Daniil</name>
+        <nurname>Klikov</nurname>
         <background>"Alexandrovich"</background>
         <age>24</age>
         <pets>0</pets>
