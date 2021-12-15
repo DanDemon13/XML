@@ -1,8 +1,11 @@
-<?xml?>
-<--information about your preferences-->
-	<Favorite Movie>Henkog</Favorite>
-	<Favorite Series>Game of Thrones</Favorite>
-	<Favorite Food>Burger<\Favorite>
-	<Favorite Season>Summer</Favorite>
-	<Town>Amsterdam</Town>
-</information
+<?xml version="1.0"encoding="UTF-8"?>
+<root>
+<!--information about your preferences-->
+	<beloved count="5">
+		<movie>Henkog</movie>
+		<series>Game of Thrones</series>
+		<food>Burger</food>
+		<season>Summer</season>
+		<town>Amsterdam</town>
+	</beloced>
+</root>
