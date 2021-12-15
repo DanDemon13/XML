@@ -1,9 +1,10 @@
-<?xml?>
+<?xml version="1.0"encoding="UTF-8"?>
+<person>
 <!--information about yourself-->
-	<Name>Daniil</Name>
-	<Nurname>Klikov</Name>
-	<Background>Alexandrovich</Name>
-	<Age>24</Age>
-	<Pets>0</Pets>
-	<DesiredSalary>Gooogol</Desired Salary>
-</information
+        <name>"Daniil"</name>
+        <nurname>"Klikov"</nurname>
+        <background>"Alexandrovich"</background>
+        <age>24</age>
+        <pets>0</pets>
+        <desiredsalary>Gooogol</desiredsalary>
+</person>
