@@ -1,19 +1,14 @@
 <?xml version="1.0"encoding="UTF-8"?>
-<Bug>
-<!--Bug Report-->
-	<short description>
-		<the texts of errors>errors what</the texts of errors>
-		<On the form Zvorotny zvyazok on the page https://itawards.ua/ua>where</On the form Zvorotny zvyazok on the page https://itawards.ua/ua>
-		<In the UA version of the site have not been translated into Ukrainian>when?</In the UA version of the site have not been translated into Ukrainian>
-	</short description>
-	<Attachment>https://itawards.ua/ua</Attachment>
-	<Steps to Reproduce>
-		<1>Open the page https://itawards.ua/ua</1>
-		<2>Scroll to the form Zvorotny zvyazyk</2>
-		<3>Click on the button Send</3>
-		<4>Pay attention to the language of errors that appeared under the form fields</4>
-	</Steps to Reproduce>
-	<Result>"Errors are displayed in English</Result>
-	<Expected Result>Errors are displayed in Ukrainian</Expected Result>
-  <Seriousness>S1 (minor)</Seriousness>
-</Bug>
+<Баг>
+	<Описание>Не переведены на украинский язык тексты ошибок</Описание> 
+	<Вложение>https://itawards.ua/ua</Вложение>
+	<ШагиВоспроизведение>
+		<Первое>Открыть страницу https://itawards.ua/ua</Первое>
+		<Второе>Проскролить к форме Зворотний зв’язок</Второе>
+		<Третье>Нажать на кнопку Надіслати</Третье>
+		<Четвёртое>Обратить внимание на язык ошибок, которые появились под полями формы</Четвёртое>
+	</ШагиВоспроизведение>
+	<ФактическийРезультат>Отображаются ошибки на английском языке</ФактическийРезультат>
+	<ОжидаемыйРезультат>Отображаются ошибки на украинском языке</ОжидаемыйРезультат>
+  <Серьезность>S1 (minor)</Серьезность>
+</Баг>
