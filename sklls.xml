@@ -1,13 +1,10 @@
 <?xml version="1.0"encoding="UTF-8"?>
-<root>
-<!--Skills to be studied-->
-	<skills count="7">
-		<softskills>Yes</softskills>
-		<hardskills>Yes</hardskills>
-		<webtechnologies>Yes</webtechnologies>
-		<testing>Yes</testing>
-		<testingbasics>Yes</testingbasics>
-		<defectreports>Yes</defectreports>
-		<bagreports>Yes</bagreports>
-	</skills>
-</root>
+<skills>
+	<softskills>Yes</softskills>
+	<hardskills>Yes</hardskills>
+	<webtechnologies>Yes</webtechnologies>
+	<testing>Yes</testing>
+	<testingbasics>Yes</testingbasics>
+	<defectreports>Yes</defectreports>
+	<bagreports>Yes</bagreports>
+</skills>
